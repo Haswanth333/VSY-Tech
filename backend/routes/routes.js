@@ -22,4 +22,6 @@ router.post('/signup', (request,response) => {
 
 })
 
+// router.get('/ratecard')
+
 module.exports = router
